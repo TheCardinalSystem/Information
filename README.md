@@ -5,7 +5,7 @@ The Crolus project takes an innovative approach to the Discord API. By implement
 
 Our user friendly web-app allows the average user to customize the bot without any prior knowledge of computer programming. The simple and organized nature of the web-panel makes it easy to use efficiently.  
 
-# Get Crolus
+## Get Crolus
 You can obtain Crolus for your own Discord server by [clicking here](https://discordapp.com/api/oauth2/authorize?client_id=592265882248675360&permissions=0&scope=bot).
 
 
